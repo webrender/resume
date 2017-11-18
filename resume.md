@@ -24,7 +24,7 @@ _JS, Backbone, Marionette, HTML5, Flash, CSS3_
 ### Perricone MD
 2008-2011  
 https://perriconemd.com  
-International skincare brand, __Manager, Web Development__, leading e-commerce production and development.  
+International skincare brand. __Manager, Web Development__, leading e-commerce production and development.  
 _CSS, JS, HTML5, Flash, Marketlive CMS_
 
 __CSU Monterey Bay__  
