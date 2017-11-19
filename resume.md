@@ -15,9 +15,7 @@ _ES6, Backbone, React, HTML5, BEM-styled LESS, Node_
 
 ### KIXEYE
 2012-2015  
-https://kixeye.com  
-https://vegaconflict.com  
-https://tomeimmortalarena.com  
+https://kixeye.com • https://vegaconflict.com • https://tomeimmortalarena.com  
 Game development company. __Full-stack developer__, orchestrated a ground-up refactor of email systems and helped develop KIXEYE.com online gaming platform.  
 _JS, Backbone, Marionette, HTML5, Flash, CSS3_
 
@@ -35,28 +33,23 @@ __Multiple Clients__
 
 Projects
 --------
-### [Costello](https://info.trello.com/power-ups/costello)
-2017  
+__[Costello](https://info.trello.com/power-ups/costello)__    
 Open-source costs plugin for Trello, currently approaching 10k MAU as of 11/17.  
 _Node, Express, Trello Power-Ups Client_
 
-### [10kTower](https://10ktower.webrender.net)
-2016  
+__[10kTower](https://10ktower.webrender.net)__  
 Tower Sim in 10kb - [view source on github](https://github.com/webrender/10ktower)  
 _Vanilla JS, Vanilla CSS, ARIA, Graceful Degredation_
 
-### [popupvid.io](https://popupvid.io)
-2015  
+__[popupvid.io](https://popupvid.io)__  
 YouTube Social Emoji Comments - [view source on github](https://github.com/webrender/popupvid.io)  
 _Angular 1, MongoDB, Node, Express_
 
-### lightninghoof.info
-2010   
+__lightninghoof.info__
 Online community portal - [archived, view in portfolio](https://webrender.github.io/2011/01/01/wow-community-websites-source-code-available-upon.html)  
 _PHP, MySQL, Wordpress, CSS_
 
-### Codile
-2008  
+__Codile__  
 Mobile-first online IDE - [archived, view in portfolio](https://webrender.github.io/2008/07/01/codile-mobile-ide-source-code-available-upon.html)  
 _mobileSafari 1.0, Javascript, PHP_
 
