@@ -35,37 +35,37 @@ IT & basic HTML website development prior to collegiate work.
 
 Projects
 --------
-__[Costello](https://info.trello.com/power-ups/costello)__
-Open-source costs plugin for Trello, currently approaching 10k MAU as of 11/17.
-_Node, Express, Trello Power-Ups Client_
+__[Costello](https://info.trello.com/power-ups/costello)__  
+Open-source costs plugin for Trello, currently approaching 10k MAU as of 11/17.  
+_Node, Express, Trello Power-Ups Client_  
 
-__[10kTower](https://10ktower.webrender.net)__
-Tower Sim in 10kb - [view source on github](https://github.com/webrender/10ktower)
-_Vanilla JS, Vanilla CSS, ARIA, Graceful Degredation_
+__[10kTower](https://10ktower.webrender.net)__  
+Tower Sim in 10kb - [view source on github](https://github.com/webrender/10ktower)  
+_Vanilla JS, Vanilla CSS, ARIA, Graceful Degredation_  
 
-__[popupvid.io](https://popupvid.io)__
-YouTube Social Emoji Comments - [view source on github](https://github.com/webrender/popupvid.io)
-_Angular 1, MongoDB, Node, Express_
+__[popupvid.io](https://popupvid.io)__  
+YouTube Social Emoji Comments - [view source on github](https://github.com/webrender/popupvid.io)  
+_Angular 1, MongoDB, Node, Express_  
 
-__lightninghoof.info__
-Online community portal - [archived, view in portfolio](https://webrender.github.io/2011/01/01/wow-community-websites-source-code-available-upon.html)
-_PHP, MySQL, Wordpress, CSS_
+__lightninghoof.info__  
+Online community portal - [archived, view in portfolio](https://webrender.github.io/2011/01/01/wow-community-websites-source-code-available-upon.html)  
+_PHP, MySQL, Wordpress, CSS_  
 
-__Codile__
-Mobile-first online IDE - [archived, view in portfolio](https://webrender.github.io/2008/07/01/codile-mobile-ide-source-code-available-upon.html)
+__Codile__  
+Mobile-first online IDE - [archived, view in portfolio](https://webrender.github.io/2008/07/01/codile-mobile-ide-source-code-available-upon.html)  
 _mobileSafari 1.0, Javascript, PHP_
 
 Knowledge
 ---------
-### Education
-__B.S. Telecommunications, Multimedia & Applied Computing - Web Development Emphasis__
-California State University, Monterey Bay
+### Education  
+__B.S. Telecommunications, Multimedia & Applied Computing - Web Development Emphasis__  
+California State University, Monterey Bay  
 
-__Capstone Project - Codile iPhone Application__
-Award of Distinction: Best Integration of Technology & Design
+__Capstone Project - Codile iPhone Application__   
+Award of Distinction: Best Integration of Technology & Design  
 
-### Application Proficiency
-Adobe Suite • Sketch • Sublime Text • VIM • Git & SVN • Trello Specialist • Major browsers & debugging tools
+### Application Proficiency  
+Adobe Suite • Sketch • Sublime Text • VIM • Git & SVN • Trello Specialist • Major browsers & debugging tools  
 
-### Web Development
+### Web Development  
 ARIA-Compliant, Semantic HTML5 • CSS3/LESS/SASS • BEM & OOCSS Methodologies • Javascript/ES6/DOM Manipulation • React/JSX • Angular 1 • MongoDB • node.js • express.js • PHP • MySQL • Backbone/Marionette • Bootstrap • jQuery
