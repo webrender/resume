@@ -19,18 +19,18 @@ __Full-stack developer__
 _JS, Backbone, Marionette, HTML5, Flash, CSS3_
 Game development company. Orchestrated a ground-up refactor of email systems and helped develop KIXEYE.com online gaming platform.  
 
-### Perricone MD 💁‍♀️2008-2011  
+### PERRICONE MD 💁‍♀️2008-2011  
 https://perriconemd.com  
 __Manager, Web Development__  
 _CSS, JS, HTML5, Flash, Marketlive CMS_
 International skincare brand. Led e-commerce production and development.  
 
 ### CSU Monterey Bay 🎓 2004-2007  
-__Web Developer__
+__Web Developer__  
 Information Technology and World Languages Departments; A/V editing and archiving.
 
 ### Multiple Clients 🖥 2000-2008  
-__Web Developer & IT Specialist__
+__Web Developer & IT Specialist__  
 IT & basic HTML website development prior to collegiate work.
 
 Projects
