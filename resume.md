@@ -10,25 +10,27 @@ Employment
 ### DISQUS 💬 2015-Present 
 https://disqus.com  
 __Senior Frontend Developer & Scrum Master__  
-Online comments platform. Optimized UI codebase across applications. Advocating best practices for React component design & styles across our frontend development team.  
 _ES6, Backbone, React, HTML5, BEM-styled LESS, Node_
+Online comments platform. Optimized UI codebase across applications. Advocating best practices for React component design & styles across our frontend development team.  
 
 ### KIXEYE 👾 2012-2015
 https://kixeye.com • https://vegaconflict.com • https://tomeimmortalarena.com  
 __Full-stack developer__  
-Game development company. Orchestrated a ground-up refactor of email systems and helped develop KIXEYE.com online gaming platform.  
 _JS, Backbone, Marionette, HTML5, Flash, CSS3_
+Game development company. Orchestrated a ground-up refactor of email systems and helped develop KIXEYE.com online gaming platform.  
 
 ### Perricone MD 💁‍♀️2008-2011  
 https://perriconemd.com  
 __Manager, Web Development__  
-International skincare brand. Led e-commerce production and development.  
 _CSS, JS, HTML5, Flash, Marketlive CMS_
+International skincare brand. Led e-commerce production and development.  
 
-__CSU Monterey Bay | 2004-2007__  
-__Web Developer__ for Information Technology and World Languages Departments; A/V editing and archiving.
+### CSU Monterey Bay 🎓 2004-2007  
+__Web Developer__
+Information Technology and World Languages Departments; A/V editing and archiving.
 
-__Multiple Clients | 2000-2008__  
+### Multiple Clients 🖥 2000-2008  
+__Web Developer & IT Specialist__
 IT & basic HTML website development prior to collegiate work.
 
 Projects
