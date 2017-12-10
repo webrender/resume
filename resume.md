@@ -47,12 +47,12 @@ __[popupvid.io](https://popupvid.io)__
 YouTube Social Emoji Comments - [view source on github](https://github.com/webrender/popupvid.io)  
 _Angular 1, MongoDB, Node, Express_  
 
-__lightninghoof.info__  
-Online community portal - [archived, view in portfolio](https://webrender.github.io/2011/01/01/wow-community-websites-source-code-available-upon.html)  
+__[lightninghoof.info](https://webrender.github.io/2011/01/01/wow-community-websites-source-code-available-upon.html)__  
+Online community portal
 _PHP, MySQL, Wordpress, CSS_  
 
-__Codile__  
-Mobile-first online IDE - [archived, view in portfolio](https://webrender.github.io/2008/07/01/codile-mobile-ide-source-code-available-upon.html)  
+__[Codile](https://webrender.github.io/2008/07/01/codile-mobile-ide-source-code-available-upon.html)__  
+Mobile-first online IDE
 _mobileSafari 1.0, Javascript, PHP_
 
 Knowledge
