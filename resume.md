@@ -15,7 +15,7 @@ _ES6, Backbone, React, HTML5, BEM-styled LESS, Node_
 
 ### KIXEYE 👾 2012-2015
 https://kixeye.com • https://vegaconflict.com • https://tomeimmortalarena.com  
-__Full-stack developer__
+__Full-stack developer__  
 Game development company. Orchestrated a ground-up refactor of email systems and helped develop KIXEYE.com online gaming platform.  
 _JS, Backbone, Marionette, HTML5, Flash, CSS3_
 
@@ -25,7 +25,7 @@ __Manager, Web Development__
 International skincare brand. Led e-commerce production and development.  
 _CSS, JS, HTML5, Flash, Marketlive CMS_
 
-__CSU Monterey Bay | 2004-2007__
+__CSU Monterey Bay | 2004-2007__  
 __Web Developer__ for Information Technology and World Languages Departments; A/V editing and archiving.
 
 __Multiple Clients | 2000-2008__  
