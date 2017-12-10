@@ -13,15 +13,15 @@ https://disqus.com
 Online comments platform. __Senior Frontend Developer & Scrum Master__, helping to optimize UI codebase across applications. Advocating best practices for React component design & styles across our frontend development team.
 _ES6, Backbone, React, HTML5, BEM-styled LESS, Node_
 
-### KIXEYE
-2012-2015
-https://kixeye.com • https://vegaconflict.com • https://tomeimmortalarena.com
+### KIXEYE  
+2012-2015  
+https://kixeye.com • https://vegaconflict.com • https://tomeimmortalarena.com  
 Game development company. __Full-stack developer__, orchestrated a ground-up refactor of email systems and helped develop KIXEYE.com online gaming platform.
 _JS, Backbone, Marionette, HTML5, Flash, CSS3_
 
-### Perricone MD
-2008-2011
-https://perriconemd.com
+### Perricone MD  
+2008-2011  
+https://perriconemd.com  
 International skincare brand. __Manager, Web Development__, leading e-commerce production and development.
 _CSS, JS, HTML5, Flash, Marketlive CMS_
 
