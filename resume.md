@@ -39,12 +39,12 @@ __[Costello](https://info.trello.com/power-ups/costello)__
 Open-source costs plugin for Trello, currently approaching 10k MAU as of 11/17.  
 _Node, Express, Trello Power-Ups Client_  
 
-__[10kTower](https://10ktower.webrender.net)__  
-Tower Sim in 10kb [⚙️](https://github.com/webrender/10ktower)  
+__[10kTower](https://10ktower.webrender.net)__[⚙️](https://github.com/webrender/10ktower)  
+Tower Sim in 10kb  
 _Vanilla JS, Vanilla CSS, ARIA, Graceful Degredation_  
 
-__[popupvid.io](https://popupvid.io)__  
-YouTube Social Emoji Comments [⚙️](https://github.com/webrender/popupvid.io)    
+__[popupvid.io](https://popupvid.io)__[⚙️](https://github.com/webrender/popupvid.io)  
+YouTube Social Emoji Comments    
 _Angular 1, MongoDB, Node, Express_  
 
 __[lightninghoof.info](https://webrender.github.io/2011/01/01/wow-community-websites-source-code-available-upon.html)__  
