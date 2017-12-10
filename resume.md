@@ -7,8 +7,7 @@ Senior UI Engineer • Frontend Developer
 
 Employment
 ----------
-### Disqus  
-__2015-Present__  
+### DISQUS | 2015-Present 
 __Senior Frontend Developer & Scrum Master__  
 https://disqus.com  
 Online comments platform. Optimized UI codebase across applications. Advocating best practices for React component design & styles across our frontend development team.
