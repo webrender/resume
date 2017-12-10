@@ -8,9 +8,9 @@ Senior UI Engineer • Frontend Developer
 Employment
 ----------
 ### Disqus  
-2015-Present  
+__2015-Present || Senior Frontend Developer & Scrum Master__
 https://disqus.com  
-Online comments platform. __Senior Frontend Developer & Scrum Master__, helping to optimize UI codebase across applications. Advocating best practices for React component design & styles across our frontend development team.
+Online comments platform. Optimized UI codebase across applications. Advocating best practices for React component design & styles across our frontend development team.
 _ES6, Backbone, React, HTML5, BEM-styled LESS, Node_
 
 ### KIXEYE  
@@ -25,11 +25,13 @@ https://perriconemd.com
 International skincare brand. __Manager, Web Development__, leading e-commerce production and development.
 _CSS, JS, HTML5, Flash, Marketlive CMS_
 
-__CSU Monterey Bay__
-2004-2007 - __Web Developer__ for Information Technology and World Languages Departments; A/V editing and archiving.
+__CSU Monterey Bay__  
+2004-2007  
+__Web Developer__ for Information Technology and World Languages Departments; A/V editing and archiving.
 
-__Multiple Clients__
-2000-2008 - IT & basic HTML website development prior to collegiate work.
+__Multiple Clients__  
+2000-2008  
+IT & basic HTML website development prior to collegiate work.
 
 Projects
 --------
