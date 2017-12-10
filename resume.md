@@ -9,8 +9,8 @@ Employment
 -----------
 __DISQUS 💬 2015-Present__  
 https://disqus.com  
-__Senior Frontend Developer & Scrum Master__  
-_ES6, Backbone, React, HTML5, BEM-styled LESS, Node_
+Senior Frontend Developer & Scrum Master  
+_ES6, Backbone, React, HTML5, BEM-styled LESS, Node_  
 Online comments platform. Optimized UI codebase across applications. Advocating best practices for React component design & styles across our frontend development team.  
 
 ### KIXEYE 👾 2012-2015
