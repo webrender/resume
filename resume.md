@@ -9,7 +9,9 @@ Employment
 ----------
 ### Disqus
 2015-Present
+
 https://disqus.com
+
 Online comments platform. __Senior Frontend Developer & Scrum Master__, helping to optimize UI codebase across applications. Advocating best practices for React component design & styles across our frontend development team.
 _ES6, Backbone, React, HTML5, BEM-styled LESS, Node_
 
