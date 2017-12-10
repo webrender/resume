@@ -16,13 +16,13 @@ Online comments platform. Optimized UI codebase across applications. Advocating 
 ### KIXEYE 👾 2012-2015
 https://kixeye.com • https://vegaconflict.com • https://tomeimmortalarena.com  
 __Full-stack developer__  
-_JS, Backbone, Marionette, HTML5, Flash, CSS3_
+_JS, Backbone, Marionette, HTML5, Flash, CSS3_  
 Game development company. Orchestrated a ground-up refactor of email systems and helped develop KIXEYE.com online gaming platform.  
 
-### PERRICONE MD 💁‍♀️2008-2011  
+### PERRICONE MD 💁‍♀️ 2008-2011  
 https://perriconemd.com  
 __Manager, Web Development__  
-_CSS, JS, HTML5, Flash, Marketlive CMS_
+_CSS, JS, HTML5, Flash, Marketlive CMS_  
 International skincare brand. Led e-commerce production and development.  
 
 ### CSU Monterey Bay 🎓 2004-2007  
