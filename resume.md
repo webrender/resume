@@ -6,9 +6,9 @@ Senior UI Engineer • Frontend Developer
 🌐 webrender.net
 
 Employment
-----------
+==========
 DISQUS 💬 2015-Present 
-=======================
+----------------------
 https://disqus.com  
 __Senior Frontend Developer & Scrum Master__  
 _ES6, Backbone, React, HTML5, BEM-styled LESS, Node_
