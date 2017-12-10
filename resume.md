@@ -7,19 +7,19 @@ Senior UI Engineer • Frontend Developer
 
 Employment
 -----------
-### DISQUS 💬 2015-Present 
+### Disqus 💬 2015-Present 
 https://disqus.com  
 __Senior Frontend Developer & Scrum Master__  
 _ES6, Backbone, React, HTML5, BEM-styled LESS, Node_  
 Online comments platform. Optimized UI codebase across applications. Advocating best practices for React component design & styles across our frontend development team.  
 
-### KIXEYE 👾 2012-2015
+### Kixeye 👾 2012-2015
 https://kixeye.com • https://vegaconflict.com • https://tomeimmortalarena.com  
 __Full-stack developer__  
 _JS, Backbone, Marionette, HTML5, Flash, CSS3_  
 Game development company. Orchestrated a ground-up refactor of email systems and helped develop KIXEYE.com online gaming platform.  
 
-### PERRICONE MD 💁‍♀️ 2008-2011  
+### Perricone MD 💁‍♀️ 2008-2011  
 https://perriconemd.com  
 __Manager, Web Development__  
 _CSS, JS, HTML5, Flash, Marketlive CMS_  
