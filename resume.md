@@ -11,7 +11,7 @@ Employment
 https://disqus.com  
 __Senior Frontend Developer & Scrum Master__  
 _ES6, Backbone, React, HTML5, BEM-styled LESS, Node_  
-Online comments platform. Optimized UI codebase across applications. Advocating best practices for React component design & styles across our frontend development team.  
+Online comments platform. Optimized UI codebase across applications. Advocating best practices for React component design & styles across our frontend development team.  As Tech Lead & Scrum Master, worked with product development to establish a clear technical design process and development methodology.
 
 ### Kixeye 👾 2012-2015
 https://kixeye.com • https://vegaconflict.com • https://tomeimmortalarena.com  
