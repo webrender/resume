@@ -1,4 +1,5 @@
 # Jeremy Laskar
+
 Senior UI Engineer • Frontend Developer
 📱 415.602.9653
 📪 webrender@gmail.com
