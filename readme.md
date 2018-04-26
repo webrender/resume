@@ -1,6 +1,3 @@
----
-title: null
----
 # Jeremy Laskar
 Senior UI Engineer • Frontend Developer
 📱 415.602.9653
