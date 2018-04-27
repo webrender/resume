@@ -1,6 +1,3 @@
----
-title: resume
----
 # Jeremy Laskar
 
 Senior UI Engineer • Frontend Developer
