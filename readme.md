@@ -1,13 +1,18 @@
 # Jeremy Laskar
 
-Senior UI Engineer • Frontend Developer
-📱 415.602.9653
+Lead Frontend Developer • UI Engineer
 📪 webrender@gmail.com
 🌐 webrender.net
 
 Employment
 -----------
-### Disqus 💬 2015-Present
+### Fictiv 📦 2018-Present
+https://fictiv.com
+__Lead Frontend Developer__
+_ES6, React, Apollo GraphQL, Ruby, Ant Design_
+Virtual Manufacturing Platform.  Leading a team of skilled engineers working at the intersection of the software and manufacturing industries. As lead engineer, I work with product, design, and development to take feature concepts and turn them into a reality.
+
+### Disqus 💬 2015-2018
 https://disqus.com
 __Senior Frontend Developer & Scrum Master__
 _ES6, Backbone, React, HTML5, BEM-styled LESS, Node_
@@ -65,7 +70,7 @@ __Capstone Project - Codile iPhone Application__
 Award of Distinction: Best Integration of Technology & Design
 
 ### Application Proficiency
-Adobe Suite • Sketch • Sublime Text • VIM • Git & SVN • Trello Specialist • Major browsers & debugging tools
+Adobe Suite • Sketch • Figma • Sublime Text • VIM • VSCode • Git & SVN • Trello Specialist • JIRA • Major browsers & debugging tools
 
 ### Web Development
-ARIA-Compliant, Semantic HTML5 • CSS3/LESS/SASS • BEM & OOCSS Methodologies • Javascript/ES6/DOM Manipulation • React/JSX • Angular 1 • MongoDB • node.js • express.js • PHP • MySQL • Backbone/Marionette • Bootstrap • jQuery
+ARIA-Compliant, Semantic HTML5 • CSS3/LESS/SASS • BEM & OOCSS Methodologies • Javascript/ES6/DOM Manipulation • React/JSX • Angular 1 • MongoDB • node.js • express.js • PHP • MySQL • Apollo GraphQL • Backbone/Marionette • Bootstrap • jQuery
