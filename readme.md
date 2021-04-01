@@ -1,6 +1,6 @@
 # Jeremy Laskar
 
-Lead Frontend Developer • UI Engineer  
+Engineering Manager • Senior UI/Frontend Developer  
 📪 webrender@gmail.com  
 🌐 webrender.net  
 
@@ -8,9 +8,10 @@ Employment
 -----------
 ### Fictiv 📦 2018-Present  
 https://fictiv.com  
-__Lead Frontend Developer__  
+2021-Present: __Engineering Manager__  
+2018-2020: __Lead Frontend Developer__  
 _ES6, React, Apollo GraphQL, Ruby, Ant Design_  
-Virtual Manufacturing Platform.  Leading a team of skilled engineers working at the intersection of the software and manufacturing industries. As lead engineer, I work with product, design, and development to take feature concepts and turn them into a reality.
+Virtual Manufacturing Platform.  Leading a team of skilled engineers working at the intersection of the software and manufacturing industries. As engineering manager, I work with product, design, and development to take feature concepts and turn them into a reality.
 
 ### Disqus 💬 2015-2018  
 https://disqus.com  
